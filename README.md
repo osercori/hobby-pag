@@ -6,6 +6,7 @@
     ╰━━━┻━━╯╰╯╰╯╰╯╰┻━┻━━┻━━╯
     ----------------------------------------------------------------- 
 
+<<<<<<< HEAD
 Hi there! Welcome to Cloud9 IDE!
 
 To get you started, we included a small hello world application.
@@ -27,3 +28,19 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 
 
 Support by Oswaldo
+=======
+Hi there! Welcome to My Web Page!
+
+To get you started, we included a small hello world application.
+
+1) I make some changes periodically in the file!
+
+Your Welcome!
+
+
+## Support & Update
+
+    I only make changes to the files to learn more.
+    
+    Support by Oswaldo
+>>>>>>> 13e409259ff4d7fc76d43e12d72a8e4428be282e
