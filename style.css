@@ -14,7 +14,7 @@ h1{
 }
 li{
     font-size: 5px;
-
+    
 }
 
 div{
@@ -40,9 +40,4 @@ div{
 .special-places{
     color: green;
     font-size: 15px;
-}
-#imag{
-    -webkit-box-shadow: 0px 0px 11px 2px #000000;
-box-shadow: 0px 0px 11px 2px #000000;
-
 }
