@@ -1,5 +1,6 @@
 body{
     background-color: chocolate;
+    margin-top: 30px;
 }
 img{
     width: 400px;
@@ -40,4 +41,11 @@ div{
 .special-places{
     color: green;
     font-size: 15px;
+}
+
+#aa{
+    position: absolute;
+    right: 10px;
+    width: 200px;
+    top: 50px;
 }
